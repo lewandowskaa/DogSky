@@ -47,14 +47,17 @@ nav a:hover{
     border:solid; /*najbardziej zewnętrzny*/
     background-color: rgba(5, 17, 185, 0.61); 
 }
-.navbar-nav{
-    /*border:solid; środkowy*/
-  
+.navbar-nav{ 
+    display:flex;
+    justify-content: center;
+    align-items: center;
     width:90vw;      
 }
 .nav-item{
     /*border:solid;*/
     width: 230px;
+    height:55px;;
+  
 }
 /*----------------------------------------------------*/
 /* Header */
@@ -181,7 +184,7 @@ section#informacja .section-heading
  .rasa{
      display:grid;
      place-items:center;
-     border-bottom:solid;
+
  }
 
  
