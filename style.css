@@ -79,7 +79,7 @@ header.mhead .intro-text {
     margin-bottom:20vh;    
 }
 header.mhead .intro-text .intro-lead-in {
-    font-size: 50px;
+    font-size: 6vh;
     font-weight: 600;
     line-height: 70px;
     font-style: italic;
@@ -233,7 +233,7 @@ section#kontakt :-ms-input-placeholder {
 }
 #clearButton,
 #sendMessageButton{
-    width: 15vw;
+    width: 19vw;
 }
 /* Footer */
 
